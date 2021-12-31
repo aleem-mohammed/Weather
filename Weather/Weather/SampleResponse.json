@@ -1,0 +1,393 @@
+{
+  "message": "accurate",
+  "cod": "200",
+  "count": 10,
+  "list": [
+    {
+      "id": 1256922,
+      "name": "Secunderabad",
+      "coord": {
+        "lat": 17.5043,
+        "lon": 78.5426
+      },
+      "main": {
+        "temp": 295.44,
+        "feels_like": 295.11,
+        "temp_min": 295.44,
+        "temp_max": 295.44,
+        "pressure": 1015,
+        "humidity": 53,
+        "sea_level": 1015,
+        "grnd_level": 951
+      },
+      "dt": 1640452147,
+      "wind": {
+        "speed": 2.16,
+        "deg": 103
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 1254176,
+      "name": "Trimulgherry",
+      "coord": {
+        "lat": 17.4703,
+        "lon": 78.5167
+      },
+      "main": {
+        "temp": 295.42,
+        "feels_like": 295.06,
+        "temp_min": 295.42,
+        "temp_max": 295.42,
+        "pressure": 1015,
+        "humidity": 52,
+        "sea_level": 1015,
+        "grnd_level": 951
+      },
+      "dt": 1640451921,
+      "wind": {
+        "speed": 2.13,
+        "deg": 105
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 7302828,
+      "name": "Malkajgiri",
+      "coord": {
+        "lat": 17.4478,
+        "lon": 78.5263
+      },
+      "main": {
+        "temp": 295.64,
+        "feels_like": 295.33,
+        "temp_min": 295.64,
+        "temp_max": 295.64,
+        "pressure": 1015,
+        "humidity": 53,
+        "sea_level": 1015,
+        "grnd_level": 955
+      },
+      "dt": 1640452156,
+      "wind": {
+        "speed": 2.13,
+        "deg": 107
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 6690107,
+      "name": "Kakaguda",
+      "coord": {
+        "lat": 17.4595,
+        "lon": 78.5046
+      },
+      "main": {
+        "temp": 295.59,
+        "feels_like": 295.25,
+        "temp_min": 295.59,
+        "temp_max": 295.59,
+        "pressure": 1015,
+        "humidity": 52,
+        "sea_level": 1015,
+        "grnd_level": 954
+      },
+      "dt": 1640452424,
+      "wind": {
+        "speed": 2.13,
+        "deg": 106
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 1253744,
+      "name": "Uppal Kalan",
+      "coord": {
+        "lat": 17.4058,
+        "lon": 78.5591
+      },
+      "main": {
+        "temp": 295.89,
+        "feels_like": 295.66,
+        "temp_min": 295.89,
+        "temp_max": 295.89,
+        "pressure": 1015,
+        "humidity": 55,
+        "sea_level": 1015,
+        "grnd_level": 959
+      },
+      "dt": 1640452147,
+      "wind": {
+        "speed": 2.12,
+        "deg": 110
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 7302845,
+      "name": "Quthbullapur",
+      "coord": {
+        "lat": 17.5011,
+        "lon": 78.4582
+      },
+      "main": {
+        "temp": 295.55,
+        "feels_like": 295.18,
+        "temp_min": 295.55,
+        "temp_max": 295.55,
+        "pressure": 1015,
+        "humidity": 51,
+        "sea_level": 1015,
+        "grnd_level": 953
+      },
+      "dt": 1640452156,
+      "wind": {
+        "speed": 2.14,
+        "deg": 99
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 7302810,
+      "name": "Gaddi Annaram",
+      "coord": {
+        "lat": 17.3669,
+        "lon": 78.5242
+      },
+      "main": {
+        "temp": 295.94,
+        "feels_like": 296.18,
+        "temp_min": 295.94,
+        "temp_max": 295.94,
+        "pressure": 1017,
+        "humidity": 73
+      },
+      "dt": 1640452155,
+      "wind": {
+        "speed": 2.57,
+        "deg": 140
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 721,
+          "main": "Haze",
+          "description": "haze",
+          "icon": "50n"
+        }
+      ]
+    },
+    {
+      "id": 1445378,
+      "name": "Ghatkesar",
+      "coord": {
+        "lat": 17.4494,
+        "lon": 78.6853
+      },
+      "main": {
+        "temp": 296,
+        "feels_like": 295.88,
+        "temp_min": 296,
+        "temp_max": 296,
+        "pressure": 1015,
+        "humidity": 59,
+        "sea_level": 1015,
+        "grnd_level": 961
+      },
+      "dt": 1640452149,
+      "wind": {
+        "speed": 2.13,
+        "deg": 106
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 1269843,
+      "name": "Hyderabad",
+      "coord": {
+        "lat": 17.3753,
+        "lon": 78.4744
+      },
+      "main": {
+        "temp": 295.88,
+        "feels_like": 296.11,
+        "temp_min": 295.88,
+        "temp_max": 295.88,
+        "pressure": 1017,
+        "humidity": 73
+      },
+      "dt": 1640452148,
+      "wind": {
+        "speed": 2.57,
+        "deg": 140
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 721,
+          "main": "Haze",
+          "description": "haze",
+          "icon": "50n"
+        }
+      ]
+    },
+    {
+      "id": 1265767,
+      "name": "Kūkatpalli",
+      "coord": {
+        "lat": 17.4833,
+        "lon": 78.4167
+      },
+      "main": {
+        "temp": 295.48,
+        "feels_like": 295.1,
+        "temp_min": 295.48,
+        "temp_max": 295.48,
+        "pressure": 1015,
+        "humidity": 51,
+        "sea_level": 1015,
+        "grnd_level": 952
+      },
+      "dt": 1640452148,
+      "wind": {
+        "speed": 2.11,
+        "deg": 97
+      },
+      "sys": {
+        "country": "IN"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    }
+  ]
+}
